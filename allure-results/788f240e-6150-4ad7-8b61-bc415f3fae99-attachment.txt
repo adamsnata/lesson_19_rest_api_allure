@@ -1,0 +1,1 @@
+STATUS CODE: 200 curl -X POST -H 'Accept: */*' -H 'Accept-Encoding: gzip, deflate' -H 'Connection: keep-alive' -H 'Content-Length: 46' -H 'Content-Type: application/x-www-form-urlencoded' -H 'User-Agent: python-requests/2.28.2' -d 'email=eve.holt%40reqres.in&password=cityslicka' https://reqres.in/api/login

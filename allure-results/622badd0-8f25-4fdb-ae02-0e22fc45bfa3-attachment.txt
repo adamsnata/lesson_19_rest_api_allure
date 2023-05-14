@@ -1,0 +1,1 @@
+STATUS CODE: 200 curl -X GET -H 'Accept: */*' -H 'Accept-Encoding: gzip, deflate' -H 'Connection: keep-alive' -H 'User-Agent: python-requests/2.28.2' 'https://reqres.in/api/users?delay=3'

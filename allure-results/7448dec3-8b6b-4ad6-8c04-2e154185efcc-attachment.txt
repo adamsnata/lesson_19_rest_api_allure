@@ -1,0 +1,1 @@
+STATUS CODE: 400 curl -X POST -H 'Accept: */*' -H 'Accept-Encoding: gzip, deflate' -H 'Connection: keep-alive' -H 'Content-Length: 29' -H 'User-Agent: python-requests/2.28.2' -d '{"email": "", "password": ""}' https://reqres.in/api/register
